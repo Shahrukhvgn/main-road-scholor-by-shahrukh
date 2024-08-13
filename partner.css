@@ -1,0 +1,87 @@
+
+
+.image_wrapper{
+    margin: 30px;
+}
+
+.image_wrapper img{
+   height: 100px;
+}
+
+.hyyyt{
+    display: flex;
+    height: 150px;
+}
+
+.abcd{
+    background-color: #DDDDDD;
+    height: 175px;
+}
+
+.callin-btn{
+    width: 75px;
+    height: 75px;
+    background-color: #F15922;
+    color: #fff;
+    margin-top: 63px;
+    position: relative;
+    top: -25px;
+    display: flex;
+    text-decoration: none;
+    margin: auto;
+    border-radius: 50%;
+    z-index: 9;
+}
+
+.fa-angle-down{
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 45px;
+}
+
+.callin-btn a{
+    color: #fff;
+}
+
+.callin-btn2{
+    width: 75px;
+    height: 75px;
+    background-color: #F15922;
+    color: #fff;
+    margin-top: 63px;
+    position: relative;
+    top: -74px;
+    display: flex;
+    text-decoration: none;
+    margin: auto;
+    border-radius: 50%;
+    z-index: 9;
+}
+
+.callin-btn2 a{
+    color: #fff;
+}
+
+.callin-btn3{
+    width: 75px;
+    height: px;
+    background-color: #F15922;
+    color: #fff;
+    margin-top: 63px;
+    position: relative;
+    top: -60px;
+    display: flex;
+    text-decoration: none;
+    margin: auto;
+    border-radius: 50%;
+    z-index: 9;
+}
+
+.callin-btn3 a{
+    color: #fff;
+}
+
+/* .callin-btn3 .fa-angle-down{
+
+    font-size: 45px;
+} */
